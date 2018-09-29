@@ -30,7 +30,6 @@ Mid-size Minecraft modpack aimed at easing a new player into the modded game
 ## Minor Mods
 
 * Aroma1997's Dimensional World
-* Better Boilers
 * Better Builder's Wands
 * Chest Transporter
 * ChickenChunks
