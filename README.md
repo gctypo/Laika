@@ -25,7 +25,7 @@ Mid-size Minecraft modpack aimed at easing a new player into the modded game
 * Storage Drawers
 * Recurrent Complex
 * Roguelike Dungeons
-* JEI
+* CraftTweaker
 
 ## Minor Mods
 
@@ -53,6 +53,8 @@ Mid-size Minecraft modpack aimed at easing a new player into the modded game
 * HWYLA (WAILA)
 * InGameInfoXML
 * Inventory Tweaks
+* JEI
+* JEI Integration
 * JourneyMap
 * Mod Name Tooltip
 * More Overlays
