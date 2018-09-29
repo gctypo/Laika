@@ -1,0 +1,52 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Apple/Macintosh
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# OEM
+.Spotlight-V100
+.Trashes
+
+# ----------------------
+
+# MultiMC
+/natives/*
+
+# Minecraft Installation
+/.minecraft/backups/*
+/.minecraft/coremods/*
+/.minecraft/crash-reports/*
+/.minecraft/local/*
+/.minecraft/logs/*
+/.minecraft/resourcepacks/*
+/.minecraft/saves/*
+/.minecraft/screenshots/*
+/.minecraft/server-resource-packs/*
+/.minecraft/texturepacks/*
+
+/.minecraft/options.txt
+/.minecraft/optionsof.txt
+/.minecraft/usercache.json
+/.minecraft/usernamecache.json
+/.minecraft/WailaErrorOutput.txt
+
+# Journeymap
+/.minecraft/journeymap/*
+!/.minecraft/journeymap/config/*
+
+# Non-distributable/Custom Mods
+/.minecraft/mods/FullscreenWindowed*.*
+/.minecraft/mods/OptiFine*.*
