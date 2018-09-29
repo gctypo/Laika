@@ -23,34 +23,37 @@ Temporary Items
 # ----------------------
 
 # MultiMC
-/natives/*
+natives/*
 
 # Minecraft Installation
-/.minecraft/backups/*
-/.minecraft/crash-reports/*
-/.minecraft/local/*
-/.minecraft/logs/*
-/.minecraft/resourcepacks/*
-/.minecraft/saves/*
-/.minecraft/screenshots/*
-/.minecraft/server-resource-packs/*
-/.minecraft/texturepacks/*
+.minecraft/backups/*
+.minecraft/crash-reports/*
+.minecraft/local/*
+.minecraft/logs/*
+.minecraft/resourcepacks/*
+.minecraft/saves/*
+.minecraft/screenshots/*
+.minecraft/server-resource-packs/*
+.minecraft/texturepacks/*
 
-/.minecraft/options.txt
-/.minecraft/optionsof.txt
-/.minecraft/usercache.json
-/.minecraft/usernamecache.json
-/.minecraft/WailaErrorOutput.txt
+.minecraft/options.txt
+.minecraft/optionsof.txt
+.minecraft/usercache.json
+.minecraft/usernamecache.json
+.minecraft/WailaErrorOutput.txt
 
-# JEI
-/.minecraft/config/jei/worldSettings.cfg
+# Skipped Configs
+.minecraft/config/jei/worldSettings.cfg
+.minecraft/config/InvTweaks.cfg
+.minecraft/config/MouseTweaks.cfg
+.minecraft/config/splash.properties
 
 # Journeymap
-/.minecraft/journeymap/*
+.minecraft/journeymap/*
 !/.minecraft/journeymap/config/*
 
 # Non-distributable/Custom Mods
-/.minecraft/mods/FullscreenWindowed*.*
-/.minecraft/mods/OptiFine*.*
-.minecraft/config/jei/worldSettings.cfg
-.minecraft/config/jei/worldSettings.cfg
+.minecraft/mods/FullscreenWindowed*.*
+.minecraft/mods/OptiFine*.*
+
+# Misc
