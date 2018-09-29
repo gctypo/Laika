@@ -42,6 +42,9 @@ Temporary Items
 /.minecraft/usernamecache.json
 /.minecraft/WailaErrorOutput.txt
 
+# JEI
+/.minecraft/config/jei/worldSettings.cfg
+
 # Journeymap
 /.minecraft/journeymap/*
 !/.minecraft/journeymap/config/*
@@ -49,3 +52,5 @@ Temporary Items
 # Non-distributable/Custom Mods
 /.minecraft/mods/FullscreenWindowed*.*
 /.minecraft/mods/OptiFine*.*
+.minecraft/config/jei/worldSettings.cfg
+.minecraft/config/jei/worldSettings.cfg

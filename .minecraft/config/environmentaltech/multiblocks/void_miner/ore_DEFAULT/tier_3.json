@@ -1,6 +1,31 @@
 {
   "outputs": [
     {
+      "target": "crystal",
+      "weight": 200,
+      "id": "environmentaltech:litherite_crystal"
+    },
+    {
+      "target": "crystal",
+      "weight": 150,
+      "id": "environmentaltech:erodium_crystal"
+    },
+    {
+      "target": "crystal",
+      "weight": 120,
+      "id": "environmentaltech:kyronite_crystal"
+    },
+    {
+      "target": "crystal",
+      "weight": 90,
+      "id": "environmentaltech:pladium_crystal"
+    },
+    {
+      "target": "black",
+      "weight": 12,
+      "id": "environmentaltech:lonsdaleite_crystal"
+    },
+    {
       "target": "black",
       "weight": 1000,
       "id": "OD:oreCoal"
@@ -112,6 +137,11 @@
     },
     {
       "target": "light_blue",
+      "weight": 169,
+      "id": "OD:oreMithril"
+    },
+    {
+      "target": "light_blue",
       "weight": 203,
       "id": "OD:oreOsmium"
     },
@@ -214,6 +244,11 @@
       "target": "pink",
       "weight": 186,
       "id": "OD:oreZinc"
+    },
+    {
+      "target": "white",
+      "weight": 157,
+      "id": "OD:oreIridium"
     },
     {
       "target": "black",
@@ -474,21 +509,6 @@
       "target": "green",
       "weight": 200,
       "id": "OD:oreEnderEssence"
-    },
-    {
-      "target": "crystal",
-      "weight": 200,
-      "id": "environmentaltech:litherite_crystal"
-    },
-    {
-      "target": "crystal",
-      "weight": 150,
-      "id": "environmentaltech:erodium_crystal"
-    },
-    {
-      "target": "black",
-      "weight": 4,
-      "id": "environmentaltech:lonsdaleite_crystal"
     }
   ]
 }
