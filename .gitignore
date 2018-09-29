@@ -27,7 +27,6 @@ Temporary Items
 
 # Minecraft Installation
 /.minecraft/backups/*
-/.minecraft/coremods/*
 /.minecraft/crash-reports/*
 /.minecraft/local/*
 /.minecraft/logs/*
