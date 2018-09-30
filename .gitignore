@@ -24,6 +24,7 @@ Temporary Items
 
 # MultiMC
 natives/*
+instance.cfg
 
 # Minecraft Installation
 .minecraft/backups/*
@@ -47,6 +48,7 @@ natives/*
 .minecraft/config/InvTweaks.cfg
 .minecraft/config/MouseTweaks.cfg
 .minecraft/config/splash.properties
+.minecraft/config/InvTweaks.cfg
 
 # Journeymap
 .minecraft/journeymap/*
