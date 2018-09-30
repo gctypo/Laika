@@ -5,14 +5,14 @@ Mid-size Minecraft modpack aimed at easing a new player into the modded game
 
 Flagship and supporting mods are storted by prominence, minor mods, client/helper mods, and api/library mods are listed alphabetically.
 
-Mods marked with (?) are likely to be removed, with reasons outlined after `|`.
+Mods marked with (?) may be removed, with reasons outlined after `|`.
 
 ## Flagship Mods
 
 * **Thermal Expansion** - Machine Processing
 * **Thermal Dynamics** - Logistics
 * **Tinkers' Construct** - Early Processing, Toolmaking
-* **Industrial Foregoing** - Auto-Farming, Organic Processing
+* (?) **Industrial Foregoing** - Auto-Farming, Organic Processing | *Possibly redundant because of TE organic processing capabilities*
 * **Twilight Forest** - Exploration, Puzzles, Combat Challenges
 * **Refined Storage** - Network Storage Management
 
@@ -31,6 +31,7 @@ Mods marked with (?) are likely to be removed, with reasons outlined after `|`.
 * **Roguelike Dungeons** - Dungeon Generation
 * **Recurrent Complex** - Misc. Structure Generation
 * (?) **CraftTweaker** - Custom Recipes | *Only used for Extreme Reactors*
+* **GrappleMod** - Grappling Hooks
 
 ## Minor Mods
 
