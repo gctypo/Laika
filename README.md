@@ -23,7 +23,7 @@ Mods marked with (?) may be removed, with reasons outlined after `|`.
 * **Redstone Arsenal** - Powered Armor and Tools
 * **Simply Jetpacks** - Jetpacks
 * **Simple Generators** - Alternative Power Generation
-* (?) **Project Red (Int./Trans., Ill.)** - Redstone Wiring, Pretty Lights | *Little need for fancy redstone circuitry*
+* (?) **Project Red (Int./Trans., Illum.)** - Redstone Wiring, Pretty Lights | *Little need for fancy redstone circuitry*
 * **OpenBlocks** - Misc. Logistics
 * **Quark** - Vanilla+
 * **Chisel** - Decorative
@@ -31,7 +31,6 @@ Mods marked with (?) may be removed, with reasons outlined after `|`.
 * **Roguelike Dungeons** - Dungeon Generation
 * **Recurrent Complex** - Misc. Structure Generation
 * (?) **CraftTweaker** - Custom Recipes | *Only used for Extreme Reactors*
-* **GrappleMod** - Grappling Hooks
 
 ## Minor Mods
 
