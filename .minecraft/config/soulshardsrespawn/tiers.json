@@ -1,0 +1,50 @@
+[
+  {
+    "killRequirement": 0,
+    "checkPlayer": true,
+    "checkLight": false,
+    "checkRedstone": false,
+    "spawnAmount": 0,
+    "cooldown": 0
+  },
+  {
+    "killRequirement": 16,
+    "checkPlayer": true,
+    "checkLight": true,
+    "checkRedstone": false,
+    "spawnAmount": 2,
+    "cooldown": 400
+  },
+  {
+    "killRequirement": 32,
+    "checkPlayer": true,
+    "checkLight": true,
+    "checkRedstone": false,
+    "spawnAmount": 4,
+    "cooldown": 200
+  },
+  {
+    "killRequirement": 64,
+    "checkPlayer": false,
+    "checkLight": true,
+    "checkRedstone": true,
+    "spawnAmount": 4,
+    "cooldown": 150
+  },
+  {
+    "killRequirement": 128,
+    "checkPlayer": false,
+    "checkLight": false,
+    "checkRedstone": true,
+    "spawnAmount": 4,
+    "cooldown": 150
+  },
+  {
+    "killRequirement": 256,
+    "checkPlayer": false,
+    "checkLight": false,
+    "checkRedstone": true,
+    "spawnAmount": 5,
+    "cooldown": 80
+  }
+]
