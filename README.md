@@ -12,7 +12,7 @@ Mods marked with (?) may be removed, with reasons outlined after `|`.
 * **Thermal Expansion** - Machine Processing
 * **Thermal Dynamics** - Logistics
 * **Tinkers' Construct** - Early Processing, Toolmaking
-* (?) **Industrial Foregoing** - Auto-Farming, Organic Processing | *Possibly redundant because of TE organic processing capabilities*
+* (?) **Industrial Foregoing** - Auto-Farming, Organic Processing | *Partially redundant from TE, but removing would lose any mob farm capabilities*
 * **Twilight Forest** - Exploration, Puzzles, Combat Challenges
 * **Refined Storage** - Network Storage Management
 
