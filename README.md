@@ -5,8 +5,6 @@ Mid-size Minecraft modpack aimed at easing a new player into the modded game
 
 Flagship and supporting mods are storted by prominence, minor mods, client/helper mods, and api/library mods are listed alphabetically.
 
-Mods marked with (?) may be removed, with reasons outlined after `|`.
-
 ## Flagship Mods
 
 * **Thermal Expansion** - Machine Processing

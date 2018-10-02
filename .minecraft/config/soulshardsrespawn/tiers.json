@@ -1,14 +1,14 @@
 [
   {
-    "killRequirement": 0,
+    "killRequirement": 16,
     "checkPlayer": true,
-    "checkLight": false,
+    "checkLight": true,
     "checkRedstone": false,
     "spawnAmount": 0,
     "cooldown": 0
   },
   {
-    "killRequirement": 16,
+    "killRequirement": 32,
     "checkPlayer": true,
     "checkLight": true,
     "checkRedstone": false,
@@ -16,7 +16,7 @@
     "cooldown": 400
   },
   {
-    "killRequirement": 32,
+    "killRequirement": 64,
     "checkPlayer": true,
     "checkLight": true,
     "checkRedstone": false,
@@ -24,7 +24,7 @@
     "cooldown": 200
   },
   {
-    "killRequirement": 64,
+    "killRequirement": 128,
     "checkPlayer": false,
     "checkLight": true,
     "checkRedstone": true,
@@ -32,7 +32,7 @@
     "cooldown": 150
   },
   {
-    "killRequirement": 128,
+    "killRequirement": 256,
     "checkPlayer": false,
     "checkLight": false,
     "checkRedstone": true,
@@ -40,7 +40,7 @@
     "cooldown": 150
   },
   {
-    "killRequirement": 256,
+    "killRequirement": 512,
     "checkPlayer": false,
     "checkLight": false,
     "checkRedstone": true,
