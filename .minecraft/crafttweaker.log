@@ -2,6 +2,6 @@
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][CLIENT][INFO] Loading scripts
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: main.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 244ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 209ms
 [POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <ore:dustCoal>
 [SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook
